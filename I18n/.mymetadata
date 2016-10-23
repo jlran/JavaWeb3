@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="I18n"
+  id="myeclipse.1477193378807"
+  context-root="/I18n"
+  j2ee-spec="5.0"
+  archive="I18n.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
